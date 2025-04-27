@@ -1,2 +1,2 @@
-console.writeline("hello world");
-console.beep();
+Console.Writeline("Hello World!");
+Console.beep();
